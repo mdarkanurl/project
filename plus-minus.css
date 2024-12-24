@@ -1,0 +1,26 @@
+#container {
+    width: 500px;
+    marker: 0;
+    text-align: center;
+}
+
+#count {
+    font-size: 24px;
+}
+
+button{
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+}
+
+button:disabled{
+    opacity: .5;
+    cursor: not-allowed;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: white;
+    border-radius: 5px;
+}

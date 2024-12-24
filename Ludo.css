@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    font-size: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+    background: #ee5253;
+    padding: 15px 60px;
+    color: #fff;
+    margin: 20px 50px;
+    border: 0px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+button:hover {
+    background: #6ab04c;
+}
